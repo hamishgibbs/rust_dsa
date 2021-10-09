@@ -1,10 +1,8 @@
 # rust_dsa
 
-Implementation of a few Data Structures & Algorithms in Rust.
+Implementation of a few Data Structures & Algorithms in Rust. Most are a re-implementation of objects by [The Algorithms](https://github.com/TheAlgorithms/Rust).
 
-Most are a re-implementation of objects by [The Algorithms](https://github.com/TheAlgorithms/Rust).
-
-Code is annotated with comments for clarity.
+Code is annotated with comments for learning / clarity.
 
 ## Index
 
