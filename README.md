@@ -10,12 +10,12 @@ This library currently implements the following:
 
 **Data Structures:**
 
-* Directed & Undirected Graph data structures: [`graph.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/graph.rs).  
+* Directed & Undirected Graph: [`graph.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/graph.rs).  
 
 **Algorithms:**
 
-* Bubble sort: [`bubble_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/bubble_sort.rs).  
-* Cocktail Shaker sort [`cocktail_shaker_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/cocktail_shaker_sort.rs).  
+* Bubble Sort: [`bubble_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/bubble_sort.rs).  
+* Cocktail Shaker Sort [`cocktail_shaker_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/cocktail_shaker_sort.rs).  
 
 **Other:**
 
