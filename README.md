@@ -19,6 +19,7 @@ This library currently implements the following:
 * Extended Euclidean Algorithm [`extended_euclidean_algorithm.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/extended_euclidean_algorithm.rs)
 * Recursive Binary Search [`binary_search_recursive.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/binary_search_recursive.rs)
 * Caesar Cipher [`caesar_cipher.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/caesar_cipher.rs)
+* Heap Sort [`heap_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/heap_sort.rs)
 
 **Other:**
 
