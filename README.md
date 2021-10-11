@@ -16,6 +16,9 @@ This library currently implements the following:
 
 * Bubble Sort: [`bubble_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/bubble_sort.rs).  
 * Cocktail Shaker Sort [`cocktail_shaker_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/cocktail_shaker_sort.rs).  
+* Extended Euclidean Algorithm [`extended_euclidean_algorithm.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/extended_euclidean_algorithm.rs)
+* Recursive Binary Search [`binary_search_recursive.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/binary_search_recursive.rs)
+* Caesar Cipher [`caesar_cipher.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/caesar_cipher.rs)
 
 **Other:**
 
