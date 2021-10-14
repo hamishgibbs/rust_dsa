@@ -21,6 +21,8 @@ This library currently implements the following:
 * Caesar Cipher [`caesar_cipher.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/caesar_cipher.rs).  
 * Heap Sort [`heap_sort.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/heap_sort.rs).  
 * Maximum Subarray [`maximum_subarray.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/maximum_subarray.rs).  
+* Edit Distance [`edit_distance.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/edit_distance.rs).  
+* Kruskal Minimum Spanning Tree [`minimum_spanning_tree.rs`](https://github.com/hamishgibbs/rust_dsa/blob/main/src/bin/minimum_spanning_tree.rs).  
 
 **Other:**
 
