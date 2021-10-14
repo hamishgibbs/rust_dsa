@@ -25,6 +25,7 @@ pub fn edit_distance(str_a: &str, str_b: &str) -> u32 {
     for (i, item) in distances.iter_mut().enumerate() {
         item[0] = i as u32;
     }
+    // Progressively fill matrix by comparing strings.
     for i in 1..=str_a.len() {
         for j in 1..=str_b.len() {
             distances[i][j] = min(distances[i - 1][j] + 1, distances[i][j - 1] + 1);
@@ -35,6 +36,7 @@ pub fn edit_distance(str_a: &str, str_b: &str) -> u32 {
             }
         }
     }
+    // The final value of th matrix is the edit distance
     distances[str_a.len()][str_b.len()]
 }
 
